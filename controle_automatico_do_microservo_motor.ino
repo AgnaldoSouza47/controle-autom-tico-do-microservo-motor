@@ -1,7 +1,6 @@
 #include <Servo.h>
-
 /* Automação do robozinho Mark2
- quarta_feira  13/08/2025 
+ domingo  07/09/2025 
  Fonte de inspiração
  Deus em Jesus Cristo que nos dá forças e a capacidade mental para continuar*/
 
